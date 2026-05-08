@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kalam Mosh Hyeawsal
+
+This log tracks the cryptographic history and versioning for the song **Kalam Mosh Hyeawsal** (kalam-mosh-hyeawsal).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T21:07:10.612624 | `v1` | `83f4a042f621ea7d4acb9bbc9b5c09274c861e5ddb54f293bb7f80017f812c0e` | `28eb6531a908b6a734bd4c450a2b432f9ae8b549d916e6c79e038d32f918a1c0` | `2026-05-08_kalam-mosh-hyeawsal-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
